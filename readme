@@ -1,1 +1,37 @@
+ Agentic AI Learning
+
+This repository contains my learning journey towards becoming an Agentic AI Engineer.
+
+ Project 1: Gemini Chatbot
+ Description
+
+A simple AI chatbot built using Google's Gemini API and Python.
+
+### Features
+
+* Accepts user input
+* Sends prompts to Gemini
+* Generates AI-powered responses
+* Interactive chatbot experience
+
+### Technologies Used
+
+* Python
+* Google Gemini API
+* Jupyter Notebook
+
+### Skills Learned
+
+* API Integration
+* Prompt Engineering
+* LLM Fundamentals
+* Python Programming
+
+## Author
+
+Mohamed Bahir
+
+B.E. Computer Science and Engineering
+
+Aspiring Agentic AI Engineer
 
